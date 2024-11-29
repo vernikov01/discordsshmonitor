@@ -1,4 +1,4 @@
-# discordsshmonitoring
+# Monitor ssh logins and sessions live from discord 
 scripts to set up live monitoring of ssh sessions on a debian based server
 
 1. clone the repo
