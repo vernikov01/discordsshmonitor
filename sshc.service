@@ -1,0 +1,10 @@
+[Unit]
+Description=sshc
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/sshc.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
